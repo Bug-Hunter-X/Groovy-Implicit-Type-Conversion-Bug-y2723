@@ -1,0 +1,2 @@
+# Groovy Implicit Type Conversion Bug
+This repository demonstrates a potential issue in Groovy related to implicit type conversion during comparisons.  The code compares an integer and a string without explicit type checking, which can lead to unexpected results. The `bug.groovy` file contains the problematic code. The `bugSolution.groovy` shows how to correct this.
